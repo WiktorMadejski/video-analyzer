@@ -24,7 +24,7 @@
                 "name":"inferenceUrl",
                 "type":"string",
                 "description":"inferenceUrl",
-                "default": "http://yolov3/score"
+                "default": "http://yolov4_8888:8888/score"
             },
             {
                 "name":"inferenceUrlPassword",
