@@ -25,7 +25,7 @@
           "name": "inferencingUrl",
           "type": "String",
           "description": "inferencing Url",
-          "default": "http://yolov3/score"
+          "default": "http://172.18.0.6:8888/score"
         },
         {
           "name": "inferencingUserName",
