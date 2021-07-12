@@ -24,7 +24,7 @@
                 "name":"inferenceUrl",
                 "type":"string",
                 "description":"inferenceUrl",
-                "default": "http://172.18.0.4:8888/score"
+                "default": "http://172.18.0.3:8888/score"
             },
             {
                 "name":"inferenceUrlPassword",
@@ -102,7 +102,7 @@
                 },
                 "samplingOptions":{
                     "skipSamplesWithoutAnnotation":"False",
-                    "maximumSamplesPerSecond":"4.0"
+                    "maximumSamplesPerSecond":"5.0"
                 }
             },
             {
